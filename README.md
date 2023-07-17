@@ -1,2 +1,2 @@
 # jssSample
-jss tes
+jss test
